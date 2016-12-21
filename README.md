@@ -1,7 +1,9 @@
 # ngrok
 
 ## 【 Overview 】  
-         
+
+開發網頁或服務的時候，如果沒有 Public IP，但又想讓別人看到此網頁或服務時，就可以使用 ngrok 的服務讓別人連進來。
+
 ## 【 Setup ngrok 】
 
 * Download ngrok
