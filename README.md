@@ -12,9 +12,20 @@
    * Mac OS
    
      ```
-     dddd
+     unzip /path/to/ngrok.zip
      ```
 
 ## 【 Run it 】
 
-* Run it!
+* Python Flask
+
+     ```
+     pip install flask
+     python crud.py
+     ```
+
+* ngrok
+
+     ```
+     ./ngrok http 5000
+     ```
